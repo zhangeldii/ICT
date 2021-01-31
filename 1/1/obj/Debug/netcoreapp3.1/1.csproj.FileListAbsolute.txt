@@ -1,0 +1,13 @@
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.exe
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.deps.json
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.dll
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\bin\Debug\netcoreapp3.1\1.pdb
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.dll
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.pdb
+C:\Users\Ержан Бактыбаев\Desktop\ICT\1\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
