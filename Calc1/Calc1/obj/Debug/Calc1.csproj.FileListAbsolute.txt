@@ -1,0 +1,10 @@
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.csprojAssemblyReference.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\Ержан Бактыбаев\Desktop\ICT\Calc1\Calc1\obj\Debug\Calc1.pdb
